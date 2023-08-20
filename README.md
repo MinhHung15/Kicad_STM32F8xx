@@ -1,1 +1,1 @@
-# Kicad_STM32F8xx
+# Kicad_STM32F103xx
